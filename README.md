@@ -7,4 +7,5 @@
 5. Run the script using node
 
 Your channel-button is ready
+
 Join the channel and you will be relocated to new channel with given name
